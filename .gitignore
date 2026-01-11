@@ -1,0 +1,26 @@
+#Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+myenv/
+python_env/
+*.egg-info/
+
+# Large data files (optional - remove if you want to include them)
+*.mat
+*.zip
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
